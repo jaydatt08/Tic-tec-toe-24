@@ -4,7 +4,7 @@ import DashboardPage from './DashboardPage'
 const FoodsPage = () => {
   return (
     <DashboardPage>
-        FoodsPage
+        <h1>RAM RAM</h1>
         
     </DashboardPage>
   )
