@@ -1,3 +1,3 @@
-# CaloFit : Front End Notes
+# FitPal : Front End Notes
 
 
