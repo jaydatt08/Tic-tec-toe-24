@@ -1,2 +1,2 @@
-# backend_calofit
-backend_file_for_calofit
+# backend_fitpal
+backend_file_for_fitpal
