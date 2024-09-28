@@ -5,7 +5,7 @@ const env = require("env2")("./.env");
 const fs = require("fs");
 const path = require("path");
 const port = process.env.PORT || 8080;
-//config - db.js
+//config - db.js.js
 
 const { connection } = require("./config/db.js");
 //Routers
