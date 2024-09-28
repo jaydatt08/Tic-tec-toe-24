@@ -1,5 +1,5 @@
-CaloFit Backend :
-db Name : CaloFit
+FitPal Backend :
+db Name : FitPal
 collections : users,foods,excercises,Nutrition_user,payment
 
 BMI - Body Mass Index:
